@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-set -e
+set -x
 
 # Agent Constants
 PACKAGE_NAME="observiq-otel-collector"
